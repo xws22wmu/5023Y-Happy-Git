@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "Neenam Rai"
 output: html_document
 ---
 
